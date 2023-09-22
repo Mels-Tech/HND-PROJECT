@@ -1,0 +1,81 @@
+body{
+    background-image: url('../img/nature.jpg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/*form{
+    text-align: center;
+    color: white;
+}
+input{
+    text-align: center;
+    border: none;
+    border-bottom: 2px cyan solid;
+    font-size: 15px;
+    font-weight: bold;
+    height: 35px;
+    color: black;
+    border-radius: 8px;
+    width: 205px;
+}
+::placeholder{
+    color: white;
+    background-color: black;
+    text-align: center;
+}*/
+button{
+    border-radius: 55px;
+    width: 155px;
+    line-height: 45px;
+    font-size: 25px;
+    background-color: black;
+    color: cyan;
+}
+button:hover{
+    background-color: white;
+    color: orangered;
+}
+/*h3{
+    text-align: center;
+    color:floralwhite;
+    font-weight: bold;
+    padding-right: 20vh;
+
+.logsin{
+    color: yellow;*/
+}
+.login{
+    padding-top: 150px;
+}
+input:hover{
+    color: cyan;
+}
+.intro{
+    color: floralwhite;
+    font-size: 80px;
+    text-align: center;
+    border-radius: 65px;
+    border: 5px;
+    padding-top: 80px;
+}
+.login{
+    color:white;
+    font-size: larger;
+    text-align: center;
+}
+.button_3{
+  /*  float: right;*/
+    width:150px;
+    /*color:black;*/
+    border-radius: 88px;
+    line-height: 40px;
+    font-size: 25px;
+    padding-left: px;
+}
+.button_2{
+    width: 150px;
+    border-radius: 88px;
+    line-height: 40px;
+    font-size: 25px; 
+}
